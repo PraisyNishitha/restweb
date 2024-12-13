@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en"?>
     <head>
@@ -400,7 +401,7 @@ Publish the website in the given URL.
     </center>
     </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-13 061053.png>)
