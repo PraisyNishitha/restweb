@@ -108,6 +108,9 @@ restaraunt.html
         <tr>
             <td><h4 style="font-size: larger;"><center>The Best Tasting Experience!</center></h4></td>
         </tr>
+        <footer align="center" id="copywrite">
+        Designed and developed by Praisy Nisitha &copy 2024
+    </footer>
     </body>        
 </html>
 
@@ -416,7 +419,7 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-13 061053.png>)
+![alt text](<Screenshot 2024-12-14 020934.png>)
 ![alt text](<Screenshot 2024-12-13 061537.png>)
 ![alt text](<Screenshot 2024-12-13 064449.png>)
 ![alt text](<Screenshot 2024-12-13 061550.png>)
