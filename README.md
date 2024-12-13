@@ -29,6 +29,8 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
+restaraunt.html
+
 <!DOCTYPE html>
 <html lang="en"?>
     <head>
@@ -108,6 +110,9 @@ Publish the website in the given URL.
         </tr>
     </body>        
 </html>
+
+menu.html
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -158,7 +163,11 @@ Publish the website in the given URL.
 
         
     </body>
+
 </html>
+
+admin.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -358,6 +367,9 @@ Publish the website in the given URL.
 
 </body>
 </html>
+
+contact.html
+
 <html>
     <head>
         <title> CONTACT </title><header>
